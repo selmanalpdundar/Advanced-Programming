@@ -1,0 +1,17 @@
+# ----- Steps to compile haskell -------#
+
+1- ghci  = to open prelude
+2- :l or :load <nameoffile> without .hs extension.
+3- nameofthe extension.
+
+:set prompt "gchi>" it sets prompt to gchi instead of prelude
+
+
+"let" keyword define functions and variables inside predule
+
+gch
+
+
+ghc testEx1.hs -v
+
+ -v for to search library
